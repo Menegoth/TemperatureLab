@@ -1,0 +1,3 @@
+﻿  TemperatureConverter.c
+C:\Users\CSIT\source\repos\Temperature\Temperature\TemperatureConverter.c(21,8): warning C4013:  'system' undefined; assuming extern returning int
+  Temperature.vcxproj -> C:\Users\CSIT\source\repos\Temperature\Debug\Temperature.exe
